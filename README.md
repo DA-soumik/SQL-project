@@ -1,4 +1,4 @@
 # SQL-project
-Problems with solution for SQL , 
+Problems with solutions for SQL , 
 <br>
 Author - Soumik Chakraorty
